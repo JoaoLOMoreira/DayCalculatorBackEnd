@@ -1,6 +1,6 @@
 # DayCalculatorBackEnd
 
-Este projeto tem como objetivo servir como a camada de processamento para o projeto de frontend [DayCalculatorFrontEnd](https://github.com/JoaoLOMoreira/DayCalculatorFrontEnd).
+Este projeto tem como objetivo servir como a camada de processamento para o projeto de frontend [DayCalculatorFrontEnd](https://github.com/JoaoLOMoreira/DayCalculatorFrontEnd) (Ainda em desenvolvimento!).
 
 ## Visão Geral
 

@@ -1,0 +1,6 @@
+@DayCalculatorBackEnd_HostAddress = http://localhost:5029
+
+GET {{DayCalculatorBackEnd_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
